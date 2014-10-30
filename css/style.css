@@ -1,0 +1,86 @@
+#pure-form
+{	
+	margin-top:3%;
+	margin-left:42%;
+	vertical-align:middle;
+}
+#pseudo
+{
+	width:25%;
+	border-radius: 10px;
+}
+
+html,#bodchat
+{
+	display:block;
+	width: 96%;
+	height:96%;
+	margin-left:30px;
+	/*
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+    background-position: 100%; 
+}
+#messagebox
+{
+	padding-left:5px;
+	padding-top:4px;
+	display:inline-block;
+	width : 73%;
+	height:75%;
+	margin-left: 30px;
+	background-color:white;
+	border-radius: 10px;
+}
+#list
+{	
+	padding-left:5px;
+	padding-top:4px;
+	display:inline-block;
+	margin-left:50px;
+	width : 15%;
+	height:75%;
+	background-color:white;
+	border-radius: 10px;
+}
+#message-input
+{
+	margin-top:10px;
+	margin-left:30px;
+	width:73%;
+}
+#textbox
+{
+	width:90%;
+	border-radius: 10px;
+}
+#butt
+{
+	border-radius: 5px;
+	float:right;
+}
+
+/*
+#chat
+{
+	width:1000px;
+	height:400px;
+	margin-left:30px;
+	margin-top:50px;
+	
+}
+#chat:hover
+{
+	background-color:blue;
+}
+}
+
+#List
+{
+	height:400px;
+	width:200px;
+	margin-left:1050px;
+	margin-top:50px;
+	border : 1px solid #234;
+}
+*/
