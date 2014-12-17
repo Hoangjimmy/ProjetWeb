@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="test-auto" default="build">
+	<target name="build">
+		<echo message="Automatisation des tests unitaires" />
+		<exec executable="php" failonerror="true">
+			<arg value="phpunit.phar"/>
+			<arg value="tests/testJsonHandler.php"/>
+		</exec>
+		<exec executable="php" failonerror="true">
+			<arg value="phpunit.phar"/>
+			<arg value="tests/message.php"/>
+		</exec>
+		<exec executable="php" failonerror="true">
+			<arg value="phpunit.phar"/>
+			<arg value="tests/testUser.php"/>
+		</exec>
+	</target>
+</project>

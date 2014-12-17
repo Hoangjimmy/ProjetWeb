@@ -1,308 +1,478 @@
 [
     {
-        "msg": "ca va ?"
-    },
-    {
-        "msg": "sdfsdf"
-    },
-    {
-        "msg": "sdfsdfsd"
-    },
-    {
-        "msg": "sdfsdgfsdghrtujry"
-    },
-    {
-        "msg": "urthrtghrtghdefg"
-    },
-    {
-        "msg": "sd"
-    },
-    {
-        "msg": "fsd"
-    },
-    {
-        "msg": "gfsd"
-    },
-    {
-        "msg": "ffdg"
-    },
-    {
-        "msg": "dfh"
-    },
-    {
-        "msg": "gfhj"
-    },
-    {
-        "msg": "df"
-    },
-    {
-        "msg": "gvdf"
-    },
-    {
-        "msg": "gdf"
-    },
-    {
-        "msg": "hdf"
-    },
-    {
-        "msg": "dfgdfgf"
-    },
-    {
-        "msg": "hfnrung"
-    },
-    {
-        "msg": "nfeiaf"
-    },
-    {
-        "msg": "angfiaeg"
-    },
-    {
-        "msg": "aegniae"
-    },
-    {
-        "msg": "g"
-    },
-    {
-        "msg": "aenigea"
-    },
-    {
-        "msg": "ng"
-    },
-    {
-        "msg": "eagnae"
-    },
-    {
-        "msg": "ng"
-    },
-    {
-        "msg": "eag"
-    },
-    {
-        "msg": "ane"
-    },
-    {
-        "msg": "gia"
-    },
-    {
-        "msg": "en"
-    },
-    {
-        "msg": "g"
-    },
-    {
-        "msg": "heiaignea"
-    },
-    {
-        "msg": "gnieagae"
-    },
-    {
-        "msg": "gnaegaengniaegaegae"
-    },
-    {
-        "msg": "a"
-    },
-    {
-        "msg": "enigeag"
-    },
-    {
-        "msg": "eagae"
-    },
-    {
-        "msg": "ngaeg"
-    },
-    {
-        "msg": "aeng"
-    },
-    {
-        "msg": "aen"
-    },
-    {
-        "msg": "gnaengeagaeng"
-    },
-    {
-        "msg": "aeg"
-    },
-    {
-        "msg": "aega"
-    },
-    {
-        "msg": "eng"
-    },
-    {
-        "msg": "aeg"
-    },
-    {
-        "msg": "ngienzping"
-    },
-    {
-        "msg": "gndkjz"
-    },
-    {
-        "msg": "gngkej"
-    },
-    {
-        "msg": "ag"
-    },
-    {
-        "msg": "aga"
-    },
-    {
-        "msg": "egn"
-    },
-    {
-        "msg": "eang"
-    },
-    {
-        "msg": "ang"
-    },
-    {
-        "msg": "eang"
-    },
-    {
-        "msg": "aegn"
-    },
-    {
-        "msg": "peagae"
-    },
-    {
-        "msg": "tgjei"
-    },
-    {
-        "msg": "ngeoa"
-    },
-    {
-        "msg": "g"
-    },
-    {
-        "msg": "ganoeg"
-    },
-    {
-        "msg": "aeng"
-    },
-    {
-        "msg": "ae"
-    },
-    {
-        "msg": "gne"
-    },
-    {
-        "msg": "ngna"
-    },
-    {
-        "msg": "gnaenganegnae"
-    },
-    {
-        "msg": "ggna"
-    },
-    {
-        "msg": "eg"
-    },
-    {
-        "msg": "ea"
-    },
-    {
-        "msg": "gn"
-    },
-    {
-        "msg": "aeng"
-    },
-    {
-        "msg": "aegea"
-    },
-    {
-        "msg": "nge"
-    },
-    {
-        "msg": "ao"
-    },
-    {
-        "msg": "gea"
-    },
-    {
-        "msg": "gn"
-    },
-    {
-        "msg": "aeng"
-    },
-    {
-        "msg": "nae"
-    },
-    {
-        "msg": "ghianeg"
-    },
-    {
-        "msg": "salut jimmy jimmy"
-    },
-    {
-        "msg": "a"
-    },
-    {
-        "msg": "b"
-    },
-    {
-        "msg": "c"
-    },
-    {
-        "msg": "d"
-    },
-    {
-        "msg": "a"
-    },
-    {
-        "msg": "z"
-    },
-    {
-        "msg": "e"
-    },
-    {
-        "msg": "r"
-    },
-    {
-        "msg": "t"
-    },
-    {
-        "msg": "ty"
-    },
-    {
-        "msg": "y"
-    },
-    {
-        "msg": "u"
-    },
-    {
-        "msg": "u"
-    },
-    {
-        "msg": "tf"
-    },
-    {
-        "msg": "aze"
-    },
-    {
-        "msg": "za"
-    },
-    {
-        "msg": "ere"
-    },
-    {
-        "msg": "zt"
-    },
-    {
-        "msg": "ezr"
-    },
-    {
-        "msg": "ze"
-    },
-    {
-        "msg": "aze"
-    },
-    {
-        "msg": "rza"
-    },
-    {
-        "msg": "afa"
-    },
-    {
-        "msg": "z"
+        "id":"5488d1fd22558",
+        "user_id":"user_5488d0920730d",
+        "user_name":"jim",
+        "talk":null,
+        "content":"salut",
+        "date":"2014-12-11 00:06:37",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5488d221dfe21",
+        "user_id":"user_5488d0920730d",
+        "user_name":"jim",
+        "talk":null,
+        "content":"ca va ?",
+        "date":"2014-12-11 00:07:13",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5488d23563e3c",
+        "user_id":"user_5488d1f5adc01",
+        "user_name":"henry",
+        "talk":null,
+        "content":"oui",
+        "date":"2014-12-11 00:07:33",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5488d252d8430",
+        "user_id":"user_5488d0920730d",
+        "user_name":"jim",
+        "talk":null,
+        "content":"Tu fais quoi ?",
+        "date":"2014-12-11 00:08:02",
+        "style":{
+            "color":"rgb(127, 221, 76)",
+            "bold":"false",
+            "italic":"false",
+            "font":"Calibri"
+        }
+    },
+    {
+        "id":"5488d25ae13f4",
+        "user_id":"user_5488d1f5adc01",
+        "user_name":"henry",
+        "talk":null,
+        "content":"Pas grand chose et toi ?",
+        "date":"2014-12-11 00:08:10",
+        "style":{
+            "color":"rgb(49, 140, 231)",
+            "bold":"true",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5488d260658fb",
+        "user_id":"user_5488d0920730d",
+        "user_name":"jim",
+        "talk":null,
+        "content":"ben je code",
+        "date":"2014-12-11 00:08:16",
+        "style":{
+            "color":"rgb(127, 221, 76)",
+            "bold":"false",
+            "italic":"false",
+            "font":"Calibri"
+        }
+    },
+    {
+        "id":"5488d265a300d",
+        "user_id":"user_5488d1f5adc01",
+        "user_name":"henry",
+        "talk":null,
+        "content":"ah ouais ?",
+        "date":"2014-12-11 00:08:21",
+        "style":{
+            "color":"rgb(49, 140, 231)",
+            "bold":"true",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5488d34b734c3",
+        "user_id":"user_5488d33ee878e",
+        "user_name":"bidule",
+        "talk":null,
+        "content":"oui c'est pas mal",
+        "date":"2014-12-11 00:12:11",
+        "style":{
+            "color":"rgb(255, 215, 0)",
+            "bold":"true",
+            "italic":"true",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5488dccf68acb",
+        "user_id":"user_5488dc9933773",
+        "user_name":"Jim",
+        "talk":null,
+        "content":"salut",
+        "date":"2014-12-11 00:52:47",
+        "style":{
+            "color":"rgb(22, 184, 78)",
+            "bold":"true",
+            "italic":"true",
+            "font":"Cambria"
+        }
+    },
+    {
+        "id":"5489b482cb4cd",
+        "user_id":"user_5489b47dacc73",
+        "user_name":"Ken",
+        "talk":null,
+        "content":"Salut",
+        "date":"2014-12-11 16:13:06",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5489b4bf8b79a",
+        "user_id":"user_5489b47dacc73",
+        "user_name":"Ken",
+        "talk":null,
+        "content":"Coucou Favie Favie",
+        "date":"2014-12-11 16:14:07",
+        "style":{
+            "color":"rgb(191, 48, 48)",
+            "bold":"false",
+            "italic":"false",
+            "font":"Candara"
+        }
+    },
+    {
+        "id":"5489b5efef2eb",
+        "user_id":"user_5489b5d1b9df9",
+        "user_name":"Flavie",
+        "talk":null,
+        "content":"Coucou Jimmy",
+        "date":"2014-12-11 16:19:11",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Cambria"
+        }
+    },
+    {
+        "id":"5489b5faf194a",
+        "user_id":"user_5489b47dacc73",
+        "user_name":"Ken",
+        "talk":null,
+        "content":"Salut Favie",
+        "date":"2014-12-11 16:19:22",
+        "style":{
+            "color":"rgb(191, 48, 48)",
+            "bold":"false",
+            "italic":"false",
+            "font":"Candara"
+        }
+    },
+    {
+        "id":"54901eff4d3ee",
+        "user_id":"user_54901ef6d8f3a",
+        "user_name":"Jim",
+        "talk":null,
+        "content":"gr\"g\"",
+        "date":"2014-12-16 13:01:03",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"54901f99a6fce",
+        "user_id":"user_54901ef6d8f3a",
+        "user_name":"Jim",
+        "talk":null,
+        "content":"frgzi",
+        "date":"2014-12-16 13:03:37",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"549023a54f6c5",
+        "user_id":"user_5490239c9bee6",
+        "user_name":"Test",
+        "talk":null,
+        "content":"azerar",
+        "date":"2014-12-16 13:20:53",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"549023aea68c8",
+        "user_id":"user_5490239c9bee6",
+        "user_name":"Test",
+        "talk":null,
+        "content":"p;rzp;",
+        "date":"2014-12-16 13:21:02",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5490243facb76",
+        "user_id":"user_5490239c9bee6",
+        "user_name":"Test",
+        "talk":null,
+        "content":"ezaraz",
+        "date":"2014-12-16 13:23:27",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5490246eb3e4a",
+        "user_id":"user_5490239c9bee6",
+        "user_name":"Test",
+        "talk":null,
+        "content":"hter",
+        "date":"2014-12-16 13:24:14",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"549024857594f",
+        "user_id":"user_5490248267782",
+        "user_name":"Wesh",
+        "talk":null,
+        "content":"reaeza",
+        "date":"2014-12-16 13:24:37",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5490257c862cc",
+        "user_id":"user_5490248267782",
+        "user_name":"Wesh",
+        "talk":null,
+        "content":"HTTP",
+        "date":"2014-12-16 13:28:44",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5490259e09538",
+        "user_id":"user_5490248267782",
+        "user_name":"Wesh",
+        "talk":null,
+        "content":"<?php echo test3?>",
+        "date":"2014-12-16 13:29:18",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"549025b0dd9a9",
+        "user_id":"user_5490248267782",
+        "user_name":"Wesh",
+        "talk":null,
+        "content":"tieant",
+        "date":"2014-12-16 13:29:36",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"549025b1e9432",
+        "user_id":"user_5490248267782",
+        "user_name":"Wesh",
+        "talk":null,
+        "content":"teaznitae",
+        "date":"2014-12-16 13:29:37",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"549025b73d4e6",
+        "user_id":"user_5490248267782",
+        "user_name":"Wesh",
+        "talk":null,
+        "content":"Comment \u00e7a va?",
+        "date":"2014-12-16 13:29:43",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"549025c623d44",
+        "user_id":"user_5490248267782",
+        "user_name":"Wesh",
+        "talk":null,
+        "content":"rzaezzzz",
+        "date":"2014-12-16 13:29:58",
+        "style":{
+            "color":"rgb(199, 44, 72)",
+            "bold":"true",
+            "italic":"true",
+            "font":"Verdana"
+        }
+    },
+    {
+        "id":"549026cab1e1e",
+        "user_id":"user_5490248267782",
+        "user_name":"Wesh",
+        "talk":null,
+        "content":"nfieanifeain",
+        "date":"2014-12-16 13:34:18",
+        "style":{
+            "color":"rgb(45, 36, 30)",
+            "bold":"true",
+            "italic":"true",
+            "font":"Verdana"
+        }
+    },
+    {
+        "id":"549049832a499",
+        "user_id":"user_54904972911ff",
+        "user_name":"DAM",
+        "talk":null,
+        "content":"SDFSDF",
+        "date":"2014-12-16 16:02:27",
+        "style":{
+            "color":"rgb(0, 0, 0)",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"54904988bad4f",
+        "user_id":"user_54904956cd21b",
+        "user_name":"Lucien",
+        "talk":null,
+        "content":"Hey!",
+        "date":"2014-12-16 16:02:32",
+        "style":{
+            "color":"rgb(0, 0, 0)",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"549049e783435",
+        "user_id":"user_54904972911ff",
+        "user_name":"DAM",
+        "talk":null,
+        "content":"Bonsoir",
+        "date":"2014-12-16 16:04:07",
+        "style":{
+            "color":"rgb(0, 0, 0)",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5491bb8dc4b78",
+        "user_id":"user_5491bb8b376b7",
+        "user_name":"grzze",
+        "talk":null,
+        "content":"razeazraz",
+        "date":"2014-12-17 18:21:17",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5491bbb79be6e",
+        "user_id":"user_5491bb8b376b7",
+        "user_name":"grzze",
+        "talk":null,
+        "content":"trztrze",
+        "date":"2014-12-17 18:21:59",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5491c7e347891",
+        "user_id":"user_5491c7df97806",
+        "user_name":"Jim",
+        "talk":null,
+        "content":"Zeraze",
+        "date":"2014-12-17 19:13:55",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
+    },
+    {
+        "id":"5491c7f77525d",
+        "user_id":"user_5491c7f10978b",
+        "user_name":"Test2",
+        "talk":null,
+        "content":"C'est bon \u00e7a marche",
+        "date":"2014-12-17 19:14:15",
+        "style":{
+            "color":"#000000",
+            "bold":"false",
+            "italic":"false",
+            "font":"Arial"
+        }
     }
 ]

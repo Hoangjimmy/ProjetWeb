@@ -1,30 +1,41 @@
+<?php 
+session_start();
+
+if(isset($_SESSION["user"], $_SESSION["connected"]) && $_SESSION["connected"] === true)
+{
+	header("Location: chat.php");
+}
+?>
 <!DOCTYPE html>
+<html>
 	<head>
-	
-		<link rel="stylesheet" href="css/bootstrap.css">
+		<!-- Define the encoding code-->
+		<meta charset="utf-8">
+		<!-- Load style and javascript-->
+		<link rel="stylesheet" href="css/Bootstrap/bootstrap.min.css">
 		<link rel="stylesheet" href="css/style.css">
 		<script src="js/jquery-2.1.1.min.js"></script>
-		<script src="js/main.js"></script>
-		<title>
-		Bienvenue sur mon chat
-		</title>
-		<div class="page-header">
-			<h1><font color=white>Chat ZZ</font><small>Prototype</small></h1>
-		</div>
+		<title>Bienvenue sur mon chat</title>
+		
+		<?php
+		if(isset($_REQUEST["alert"]))
+		{
+			echo "alert('". $_REQUEST["alert"] ."');";
+		}
+		?>
+		</script>
 	</head>
+	<!-- Define form to enter in the chat -->
+	<div class="page-header">
+		<h1><font color=white id = "title">Chat ZZ</font></h1>
+	</div>
 	<body id=bodchat background = "assets/Down.jpg">
-	
-		<form id="pure-form" action="chat.php" method="post">
+	<!-- Send information to the next page with post method-->
+		<form id="pure-form" action="process.php?action=enterChat" method="POST">
 			<fieldset>
-				<input id=pseudo type="text" name="Pseudo" placeholder="Pseudo"><br/>
-				<label for="remember">
-					<input id="remember" name ="remember" type="checkbox"> <text style = color:white> Se souvenir de moi</text>
-				</label>
-				
-				<button  type="submit" class="pure-button pure-button-primary">Se connecter</button>
+				<input id=pseudo type="text" name="pseudo" placeholder="Pseudo"><br/>
+				<button  type="submit" class="pure-button pure-button-primary" id = "butt-index">Se connecter</button>
 			</fieldset>
 		</form>
 	</body>
 </html>
-
- 
